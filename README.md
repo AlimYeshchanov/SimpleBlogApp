@@ -1,4 +1,4 @@
-step one: go to the backend folder and write in terminal window "npm install" 
+step one: go to the backend folder and write in terminal window "npm install" </br>
 step two: go to the client folder do the same above-mentioned things
 By means of "npm install" you can install all necessary packages and dependencies.
 
