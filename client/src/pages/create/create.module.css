@@ -1,0 +1,17 @@
+.labelFileInput>span{
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: teal;
+    color: #fff;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: 150ms all;
+    border-radius: 1rem;
+}
+
+.labelFileInput>span:hover{
+    padding: 0.5rem 1rem;
+    background-color: #0948f4ef;
+    color: rgb(201, 234, 234);
+    border-color: teal;
+}

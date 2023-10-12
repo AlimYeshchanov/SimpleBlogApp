@@ -1,0 +1,15 @@
+.edit{
+    cursor: pointer;
+    padding: 0.4rem 0.75rem;
+    border-radius: 12px;
+    background-color: green;
+    color: #fff;
+}
+
+.delete{
+    cursor: pointer;
+    padding: 0.4rem 0.75rem;
+    border-radius: 12px;
+    background-color: #f00;
+    color: #fff;
+}
